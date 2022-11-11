@@ -1,0 +1,57 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-image: linear-gradient(to right top, #f391d8, #dc78e9, #96ceed, #5ff9d0 );
+
+}
+.note{
+    font-size: 18px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+.div_speed{
+    float: left;
+    margin-left: 10px;
+}
+.div_img{
+    width: 200px;
+    border-radius: 50%;
+}
+#speed, #volume{
+    font-size: 25px;
+    margin: 15px;
+}
+.div_volume{
+    float: right; 
+    margin-right: 10px;
+}
+canvas{
+    border: 5px solid mediumspringgreen ;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px mediumseagreen;
+}
+button{
+    margin: 15px;
+}
+#name{
+    background-image: linear-gradient(to right top, #f391d8, #dc78e9, #96ceed, #5ff9d0 );
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
